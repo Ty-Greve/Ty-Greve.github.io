@@ -5,3 +5,11 @@ html, body {
     background-color: #000000;
     color: #ffffff;
   }
+
+  html, body {
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    background-color: #0d719f;
+    color: #030303;
+  }
