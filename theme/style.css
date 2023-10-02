@@ -6,10 +6,6 @@ html, body {
     color: #ffffff;
   }
 
-  html, body {
-    margin: 0;
-    border: 0;
-    font-size: 100%;
-    background-color: #0d719f;
-    color: #030303;
+  #banner a:hover {
+    color: #bab825;
   }
