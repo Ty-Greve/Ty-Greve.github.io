@@ -14,3 +14,37 @@ html, body {
   font-size: 200%;
   color: #9dac77;
 }
+
+#post-list a{
+  font-size: 100%;
+  /* font-style: normal; */
+  font-weight: bold;
+  text-decoration: none;
+  color: #cfd1ca;
+}
+
+#post-list a:visited{
+  color: #819360;
+}
+
+#menu>ul {
+  overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#menu>ul>li {
+  float: left;
+  font-size: 1.6em;
+  text-decoration: none;
+}
+
+#menu>ul>li>a:visited{
+  color: #819360;
+}
+
+#menu>ul>li>a {
+  padding: 30px 20px 30px 0px;
+  color: #ffffff;
+}
