@@ -9,3 +9,8 @@ html, body {
 #banner a:hover {
   color: #bab825;
 }
+
+#banner a{
+  font-size: 200%;
+  color: #ffffff;
+}
